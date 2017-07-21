@@ -1,0 +1,2 @@
+# MasterNode
+Wagerr MasterNode
